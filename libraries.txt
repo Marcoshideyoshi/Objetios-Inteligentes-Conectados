@@ -1,0 +1,6 @@
+LiquidCrystal I2C
+ESP32Servo
+WiFi
+PubSubClient
+ArduinoJson
+HX711
